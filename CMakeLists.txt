@@ -135,4 +135,7 @@ endif()
 
 ####
 
+# imgui is always bundled
+add_subdirectory(libs/imgui)
+
 add_subdirectory(neo)
